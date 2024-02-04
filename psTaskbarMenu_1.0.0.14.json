@@ -2,6 +2,8 @@
   "AppName": "psTaskbarMenu",
   "AppExec": "psTaskbarMenu.exe",
   "AppVer": "1.0.0.14",
+  "AppZipSHA1": "3E4806963900CDBF2149A58F42E55F67E426D80E",
+  "AppZipSHA2": "3F9C6921242EDFE5C600D5775E476F359D7B1A49FD07C11BF9A09F23D9B9272A",
   "FileData": [
     {
       "FileName": "BouncyCastle.Crypto.dll",
