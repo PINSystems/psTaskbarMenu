@@ -1,5 +1,5 @@
 {
-  "AppName": "psTaskbarMenuTest",
+  "AppName": "psTaskbarMenu",
   "AppExec": "psTaskbarMenu.exe",
   "AppVer": "1.0.0.15",
   "FileData": [
