@@ -1,5 +1,5 @@
 {
-  "FormatId": 1,
+  "DataFormat": 1,
   "AppName": "psTaskbarMenu",
   "AppExec": "psTaskbarMenu.exe",
   "AppVer": "1.0.0.14",
