@@ -5,4 +5,4 @@ For additional infomration, see: <br/>
 https://www.pinsystems.com/apps/psTaskbarMenu.aspx <br/>
 <br/>
 All versions  |  Note: Latest is at the bottom <br/>
-https://github.com/PINSystems/psTaskbarMenu_Archive <br/>
+https://github.com/PINSystems/psTaskbarMenu_Release <br/>
